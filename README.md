@@ -1,5 +1,5 @@
 # Implementention of Dijkstra's algorithm on a set of districts
-## How to run the app
+## Overview
 - Theres a package that contains the dijkstra's algorithm
 - There are two execution modes and two apps for each
 - one mode assumes a destination and a source
